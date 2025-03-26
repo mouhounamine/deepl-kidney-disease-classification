@@ -1,1 +1,3 @@
 # deepl-kidney-disease-classification
+
+Ce projet utilise des techniques de Deep Learning pour la classification des maladies rénales. Il est construit avec TensorFlow et vise à fournir des outils pour le diagnostic précoce et l'évaluation des maladies rénales à partir de données médicales. Les modèles développés dans ce projet peuvent aider à améliorer la précision des diagnostics et à soutenir les professionnels de la santé dans leur prise de décision.
